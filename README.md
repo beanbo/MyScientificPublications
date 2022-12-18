@@ -1,1 +1,1 @@
-# MyScientificPublications
+Тут собраны мои научные публикации.
